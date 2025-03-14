@@ -8,7 +8,6 @@ Projekt obejmuje:
 - **Moduł Verilog (`gpioemu.v`)** – Implementację automatu stanowego, który oblicza N-tą liczbę pierwszą.  
 - **Moduł jądra systemu Linux** – Sterownik obsługujący komunikację z peryferiami poprzez interfejs `/proc`.  
 - **Aplikację testującą w języku C** – Program weryfikujący poprawność działania modułów systemowych.
-- 
 ---
 
 Więcej szczegółowych informacji, w tym opisy implementacji, wyniki testów oraz wnioski, znajdują się w sprawozdaniu dołączonym do projektu.
